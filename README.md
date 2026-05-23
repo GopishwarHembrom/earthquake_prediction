@@ -8,7 +8,7 @@ Production-style full-stack AI dashboard using:
 ## Folder Structure
 
 ```text
-final4/
+folder/
 ├── backend/
 │   ├── main.py
 │   ├── requirements.txt
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 - Copy `.env.example` to `.env`
 - Set `MODEL_PATH` to your model location:
 ```env
-MODEL_PATH=d:/Collage/Project/Experiment/final2/earthquake_model_full.pkl
+MODEL_PATH=d:/yourpath/earthquake_model_full.pkl
 ```
 
 5. Run backend:
